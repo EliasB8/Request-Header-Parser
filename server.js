@@ -19,7 +19,7 @@ app.get("/api/whoami", function (req, res) {
   });
 });
 
-// Settong our PORT address the server listens to
+// Setting our PORT address the server listens to
 const PORT = process.env.PORT || 3000;
 
 // listen for requests :)

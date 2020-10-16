@@ -22,7 +22,7 @@
 		"node",
 		"api",
 		"freecodecamp",
-		"backend"
+		"backend",
 		"express"
 	],
 	"license": "MIT"
